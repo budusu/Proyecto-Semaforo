@@ -1,5 +1,7 @@
 # Proyecto-Semaforo
 Administracion del proyecto de semaforos de Topicos de Especialidad USACH
+
+
 void setup()
 {
   pinMode(2, INPUT_PULLUP);
